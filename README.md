@@ -13,23 +13,23 @@ Author - Varun Chauhan
 
 ## requirements
 
-"@testing-library/jest-dom": "^5.17.0",
-"@testing-library/react": "^13.4.0",
-"@testing-library/user-event": "^13.5.0",
-"bootstrap": "^5.3.2",
-"react": "^18.2.0",
-"react-bootstrap": "^2.9.2",
-"react-dom": "^18.2.0",
-"react-scripts": "5.0.1",
-"web-vitals": "^2.1.4"
+* "@testing-library/jest-dom": "^5.17.0"
+* "@testing-library/react": "^13.4.0"
+* "@testing-library/user-event": "^13.5.0"
+* "bootstrap": "^5.3.2"
+* "react": "^18.2.0"
+* "react-bootstrap": "^2.9.2"
+* "react-dom": "^18.2.0"
+* "react-scripts": "5.0.1"
+* "web-vitals": "^2.1.4
 
 ## Features
 
-- **Encryption:** Encrypt plaintext using the Caesar Cipher algorithm.
-- **Decryption:** Decrypt ciphertext using the Caesar Cipher algorithm.
-- **Shift Value:** Allow users to specify the shift value for encryption or decryption.
-- **Copy to Clipboard:** Copy the encrypted or decrypted text to the clipboard.
-- **Enable Dark Mode:** Allow users to toggle between dark  and light mode.
+* Add your task with the description of task.
+* Add your date of task.
+* Add your time of task.
+* You can check the check box if your task is completed.
+* You can click on remove button to delete that task.
 
 ## Installation
 
