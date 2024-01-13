@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#removebutton {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.overflow-scroll {
+  overflow: auto;
+}
+
+.completed-task {
+  text-decoration: line-through;
+  color: #888;
+}
